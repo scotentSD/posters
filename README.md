@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 # Scottish Posters
 - [Do the hard work](files/SaltireDotheHardWork.pdf)
 - [Users have Needs](files/SaltireUserNeeds.pdf)
