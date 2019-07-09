@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 # Scottish Posters
 - [Do the hard work](files/SaltireDotheHardWork.pdf)
@@ -25,7 +29,7 @@
 
 and [raw files on GitHub](https://github.com/alphagov/govdesign)
 
-And some of our favourites: 
+And some of our favourites:
 > - [Research Cards](Cards_User_Research_Activities.pdf)
 > - [Task not Technology](Poster_DescribeTheTask.pdf)
 > - [Content is UX](Poster_Content-Design.pdf)
@@ -54,8 +58,8 @@ You are free to adapt the posters but only under the following conditions:
 
 Here are some examples of how the posters have been adapted by external organisations:
 
-* [Designing for those who have experienced trauma through domestic or intimate partner violence](https://bit.ly/2JkAnFA) 
-* [Designing for users with aphasia](https://bit.ly/2kVbGFm) 
+* [Designing for those who have experienced trauma through domestic or intimate partner violence](https://bit.ly/2JkAnFA)
+* [Designing for users with aphasia](https://bit.ly/2kVbGFm)
 
 We welcome feedback - please [create an issue](https://github.com/UKHomeOffice/posters/issues) to feedback whether positive or negative. Otherwise you can contact the design team at the Home Office on email - [design@digital.homeoffice.gov.uk](mailto:design@digital.homeoffice.gov.uk).
 
@@ -81,6 +85,3 @@ You can read about how the Do's and Don'ts posters were developed on our blog: h
 
 * [General](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
 * [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
-
-
-
