@@ -1,1 +1,5 @@
-
+theme: jekyll-theme-slate
+title: Poster
+description: Service Design Posters
+excerpt_separator: "<!--more-->"
+baseurl: "/posters"
