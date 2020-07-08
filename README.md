@@ -6,6 +6,7 @@
 - [Types of need](files/SaltireNeedTypesv2.pdf)
 - [Research Outputs](files/SaltireResearchOutputs.pdf)
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
+- [15 Principles of Good Services (Lou Downe)](files/Saltire_Good_Services_15.pdf)
 
 ## Problems faced when using our websites (Digital Inclusion)
 - [Access](files/SaltireProblemsAccess.pdf)
@@ -59,7 +60,7 @@ Here are some examples of how the posters have been adapted by external organisa
 
 We welcome feedback - please [create an issue](https://github.com/UKHomeOffice/posters/issues) to feedback whether positive or negative. Otherwise you can contact the design team at the Home Office on email - [design@digital.homeoffice.gov.uk](mailto:design@digital.homeoffice.gov.uk).
 
-## Our posters  (GDS) 
+## Our posters  (GDS)
 Using Git Browser, you can [view all the posters before you start working on them](http://www.git-browser.com/ukhomeoffice/posters/accessibility). (A big thanks to [Joe Lanman](https://twitter.com/joelanman) from [GDS](https://twitter.com/gdsteam) for adding our posters to his Git Browser project)  
 
 ### Access needs
