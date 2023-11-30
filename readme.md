@@ -83,5 +83,6 @@ You can read about how the Do's and Don'ts posters were developed on our blog: h
 * [General](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
 * [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
 
+
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
