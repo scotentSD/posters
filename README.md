@@ -79,7 +79,14 @@ You can read about how the Do's and Don'ts posters were developed on our blog: h
 > - [Who to include when researching access needs](files/Research-who_to_include_when.pdf)
 
 ### Discovery Alpha Beta Live
+- [Project Phases](files/DiscoveryAlphaBetaLive_OnePage.pdf)
+- [Discovery](files/Discovery.pdf)
+- [Alpha](files/Alpha.pdf)
+- [Beta](files/Beta.pdf)
+- [Live](files/Live.pdf)
 
+
+GDS Originals
 * [General](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
 * [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
 
